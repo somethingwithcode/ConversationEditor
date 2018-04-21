@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TheConversation>
+    <ConversationPart>
+      <Choices>
+        <string />
+      </Choices>
+      <Next>
+        <int>1</int>
+      </Next>
+      <PartID>0</PartID>
+      <Text>Welcome to the node editor</Text>
+      <Expression>Smile</Expression>
+    </ConversationPart>
+    <ConversationPart>
+      <Choices>
+        <string />
+        <string />
+      </Choices>
+      <Next>
+        <int>2</int>
+        <int>-1</int>
+      </Next>
+      <PartID>1</PartID>
+      <Text>you can load the Conversation.asset file or create a new one</Text>
+      <Expression>Normal</Expression>
+    </ConversationPart>
+    <ConversationPart>
+      <Choices>
+        <string />
+      </Choices>
+      <Next>
+        <int>-1</int>
+      </Next>
+      <PartID>2</PartID>
+      <Text>try it out!</Text>
+      <Expression>Laughing</Expression>
+    </ConversationPart>
+  </TheConversation>
+</ConversationModel>

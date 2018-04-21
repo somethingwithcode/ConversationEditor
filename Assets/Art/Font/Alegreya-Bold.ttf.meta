@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f9cd57eabee55954983be664dc97750d
+timeCreated: 1495890314
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alegreya
+  fontNames:
+  - Alegreya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7038b3e17a0643e4ebcb1cc4ed0c4be0, type: 3}
+  - {fileID: 12800000, guid: 926beae3096e0c942bb3cbaaacf32013, type: 3}
+  - {fileID: 12800000, guid: 7e92b299c3bf429418861d581f6c9069, type: 3}
+  - {fileID: 12800000, guid: 4ec3484ce5095034ebef9ea324ab47e6, type: 3}
+  - {fileID: 12800000, guid: e3cd7b6e459ea6f4786ca189215906ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
