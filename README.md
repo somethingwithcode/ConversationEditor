@@ -10,6 +10,8 @@ I created this as a proof of concept to show a way to create a simple editor wit
 Its a node based editor for in-game conversations in the style of many JRPGs or Visual Novels. 
 The editor is already able to create branching dialog but there is currently no code to access this ingame.
 
+![Node Editor](https://github.com/somethingwithcode/ConversationEditor/blob/master/Images/choice.jpg)
+
 ## Who is it for?
 
 As I said above it's not production ready. You can use it as a starting point, as inspiration or just to look at if you are curious.
