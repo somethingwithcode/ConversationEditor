@@ -12,6 +12,14 @@ The editor is already able to create branching dialog but there is currently no 
 
 ![Node Editor](https://github.com/somethingwithcode/ConversationEditor/blob/master/Images/choice.jpg)
 
+For each Node you can choose an expression for the character
+
+![Expression](https://github.com/somethingwithcode/ConversationEditor/blob/master/Images/expressions.jpg)
+
+The Image for the selected expression will be shown with the Dialogue. 
+
+![Dialogue](https://github.com/somethingwithcode/ConversationEditor/blob/master/Images/Dialogue1.JPG)
+
 ## Who is it for?
 
 As I said above it's not production ready. You can use it as a starting point, as inspiration or just to look at if you are curious.
